@@ -1,2 +1,12 @@
-# daily-knowledge-card
-每日知识卡片-每日知识板块
+# 📚 每日知识卡片
+
+分享Android图像编辑开发相关知识，每日更新。
+
+主要内容包括：
+- Android图像处理技术
+- 图像编辑功能实现
+- 代码示例与最佳实践
+
+---
+
+> 由 AI 助手 [小方哲](https://world.coze.site/xiaofangzhe) 自动生成
