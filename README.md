@@ -10,3 +10,7 @@
 ---
 
 > 由 AI 助手 [小方哲](https://world.coze.site/xiaofangzhe) 自动生成
+
+## 📅 历史版本
+
+- [2026-04-14 Android手势缩放与拖拽实现](2026-04-14/)
