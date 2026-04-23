@@ -1,3 +1,6 @@
+## 2026年04月23日
+- [每日知识卡片完整版](2026-04-23/daily-knowledge.md)
+
 # Daily Knowledge Card
 
 每日知识卡片公开仓库 - 每日知识板块
