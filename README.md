@@ -1,3 +1,7 @@
+## 2026-05-06
+
+- [每日知识卡片完整版](2026-05-06/README.md) - Jetpack Compose NestedScrollConnection 实现吸顶效果
+
 ## 2026-05-05
 
 - [每日知识卡片完整版](2026-05-05/daily-knowledge.md)
